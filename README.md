@@ -18,7 +18,7 @@ A retail company receives monthly sales records from multiple channels and regio
 
 The project demonstrates how a junior data professional can organise this process using Excel formulas and MySQL.
 
-![Project Workflow](docs/project_workflow.png)
+![Project Workflow](img/project_workflow.png)
 
 ## Project workflow
 
