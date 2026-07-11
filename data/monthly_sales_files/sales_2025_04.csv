@@ -1,0 +1,16 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Email,Product_ID,Product_Name,Category,Region,Sales_Channel,Sales_Representative,Quantity,Unit_Price,Unit_Cost,Discount_Rate,Payment_Method,Order_Status
+ORD-10006,2025-04-09,C1085,client59@example.com,P1010,Headset,Electronics,South,Online,Maria Ionescu,12,195.0,105.0,0,Card,Completed
+ORD-10041,2025-04-01,C1095,client86@example.com,P1003,Mechanical Keyboard,Accessories,East,Marketplace,Maria Ionescu,7,265.0,155.0,0,Cash,Completed
+ORD-10043,2025-04-27,C1025,client103@example.com,P1005,24-inch Monitor,Electronics,South,Store,Andrei Pop,4,720.0,510.0,0,Cash,Cancelled
+ORD-10064,2025-04-04,C1042,client55@example.com,P1008,Standing Desk,Furniture,East,Store,Elena Stan,1,1450.0,1030.0,0.05,Online Wallet,Completed
+ORD-10067,2025-04-22,C1099,client95@example.com,P1010,Headset,Electronics,North,Marketplace,Ioana Pavel,8,195.0,105.0,0.2,Card,Completed
+ORD-10074,2025-04-04,C1103,client67@example.com,P1006,27-inch Monitor,Electronics,South,Store,Ioana Pavel,8,1090.0,790.0,0,Cash,Completed
+ORD-10079,2025-04-21,C1093,client151@example.com,P1004,USB-C Hub,Accessories,West,Marketplace,Elena Stan,12,175.0,98.0,0.1,Card,Completed
+ORD-10117,2025-04-13,C1068,client129@example.com,P1003,Mechanical Keyboard,Accessories,South,Online,Elena Stan,3,265.0,155.0,0.15,Online Wallet,Completed
+ORD-10124,2025-04-22,C1110,client93@example.com,P1006,27-inch Monitor,Electronics,Bucharest,Marketplace,Elena Stan,8,1090.0,790.0,0.1,Cash,Completed
+ORD-10153,2025-04-12,C1098,client168@example.com,P1005,24-inch Monitor,Electronics,Bucharest,Online,Mihai Radu,3,720.0,510.0,0.15,Online Wallet,Completed
+ORD-10184,2025-04-06,C1048,client133@example.com,P1006,27-inch Monitor,Electronics,South,Online,Mihai Radu,8,1090.0,790.0,0.2,Card,Completed
+ORD-10224,2025-04-14,C1090,client70@example.com,P1004,USB-C Hub,Accessories,North,Online,Ioana Pavel,9,175.0,98.0,0.05,Bank Transfer,Returned
+ORD-10248,2025-04-30,C1018,client129@example.com,P1008,Standing Desk,Furniture,South,Online,Ioana Pavel,9,1450.0,1030.0,0,Cash,Completed
+ORD-10252,2025-04-05,C1109,client58@example.com,P1007,Office Chair,Furniture,South,Marketplace,Maria Ionescu,9,840.0,590.0,0.1,Online Wallet,Completed
+ORD-10285,2025-04-01,C1095,client178@example.com,P1006,27-inch Monitor,Electronics,East,Marketplace,Maria Ionescu,7,1090.0,790.0,0.05,Cash,Completed

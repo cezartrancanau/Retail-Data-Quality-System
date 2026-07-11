@@ -1,0 +1,27 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Email,Product_ID,Product_Name,Category,Region,Sales_Channel,Sales_Representative,Quantity,Unit_Price,Unit_Cost,Discount_Rate,Payment_Method,Order_Status
+ORD-10029,2025-10-27,C1021,client15@example.com,P1001,Laptop Stand,Accessories,West,Online,Maria Ionescu,8,95.0,52.0,0.15,Card,Returned
+ORD-10038,2025-10-10,C1002,client29@example.com,P1008,Standing Desk,Furniture,Bucharest,Marketplace,Maria Ionescu,12,1450.0,1030.0,0.1,Card,Returned
+ORD-10039,2025-10-26,C1017,client11@example.com,P1006,27-inch Monitor,Electronics,South,Store,Andrei Pop,9,1090.0,790.0,0,Cash,Completed
+ORD-10045,2025-10-25,C1077,client112@example.com,P1003,Mechanical Keyboard,Accessories,South,Marketplace,Elena Stan,5,265.0,155.0,0,Online Wallet,Completed
+ORD-10047,2025-10-03,C1095,client172@example.com,P1009,Webcam,Electronics,North,Store,Mihai Radu,11,230.0,132.0,0.2,Card,Cancelled
+ORD-10050,2025-10-08,C1027,client111@example.com,P1007,Office Chair,Furniture,West,Marketplace,Elena Stan,1,840.0,590.0,0.05,Online Wallet,Completed
+ORD-10055,2025-10-13,C1018,client119@example.com,P1001,Laptop Stand,Accessories,West,Marketplace,Ioana Pavel,4,95.0,52.0,0,Cash,Completed
+ORD-10072,2025-10-03,C1106,client152@example.com,P1010,Headset,Electronics,South,Store,Maria Ionescu,8,195.0,105.0,0.1,Card,Completed
+ORD-10077,2025-10-11,C1096,client141@example.com,P1008,Standing Desk,Furniture,South,Store,Mihai Radu,9,1450.0,1030.0,0.05,Cash,Completed
+ORD-10081,2025-10-11,C1082,client126@example.com,P1001,Laptop Stand,Accessories,Bucharest,Online,Ioana Pavel,5,95.0,52.0,0.2,Cash,Completed
+ORD-10089,2025-10-06,C1117,client69@example.com,P1002,Wireless Mouse,Accessories,North,Online,Andrei Pop,4,85.0,44.0,0.2,Bank Transfer,Completed
+ORD-10130,2025-10-31,C1029,client158@example.com,P1009,Webcam,Electronics,Bucharest,Marketplace,Ioana Pavel,2,230.0,132.0,0.1,Cash,Returned
+ORD-10138,2025-10-23,C1085,client124@example.com,P1002,Wireless Mouse,Accessories,North,Online,Elena Stan,9,85.0,44.0,0,Cash,Completed
+ORD-10154,2025-10-24,C1083,client163@example.com,P1010,Headset,Electronics,West,Store,Elena Stan,8,195.0,105.0,0.2,Bank Transfer,Returned
+ORD-10157,2025-10-25,C1058,client147@example.com,P1008,Standing Desk,Furniture,North,Store,Ioana Pavel,9,1450.0,1030.0,0.2,Online Wallet,Completed
+ORD-10163,2025-10-14,C1105,client33@example.com,P1005,24-inch Monitor,Electronics,West,Online,Mihai Radu,7,720.0,510.0,0.2,Cash,Completed
+ORD-10189,2025-10-18,C1087,client116@example.com,P1007,Office Chair,Furniture,South,Store,Mihai Radu,1,840.0,590.0,0.15,Card,Completed
+ORD-10200,2025-10-01,C1022,client152@example.com,P1010,Headset,Electronics,West,Online,Maria Ionescu,2,195.0,105.0,0.15,Cash,Cancelled
+ORD-10209,2025-10-02,C1018,client68@example.com,P1005,24-inch Monitor,Electronics,South,Store,Elena Stan,1,720.0,510.0,0,Card,Completed
+ORD-10238,2025-10-16,C1116,client130@example.com,P1002,Wireless Mouse,Accessories,North,Marketplace,Ioana Pavel,2,85.0,44.0,0,Bank Transfer,Returned
+ORD-10242,2025-10-05,C1005,client74@example.com,P1002,Wireless Mouse,Accessories,East,Online,Maria Ionescu,1,85.0,44.0,0,Online Wallet,Completed
+ORD-10244,2025-10-03,C1094,client58@example.com,P1003,Mechanical Keyboard,Accessories,Bucharest,Online,Elena Stan,7,265.0,155.0,0.15,Online Wallet,Completed
+ORD-10253,2025-10-15,C1068,client35@example.com,P1001,Laptop Stand,Accessories,East,Online,Elena Stan,7,95.0,52.0,0.1,Bank Transfer,Returned
+ORD-10262,2025-10-07,C1083,client16@example.com,P1003,Mechanical Keyboard,Accessories,West,Online,Andrei Pop,8,265.0,155.0,0,Card,Returned
+ORD-10269,2025-10-10,C1002,client180@example.com,P1007,Office Chair,Furniture,North,Online,Mihai Radu,8,840.0,590.0,0,Online Wallet,Cancelled
+ORD-10270,2025-10-17,C1030,client55@example.com,P1006,27-inch Monitor,Electronics,West,Store,Elena Stan,2,1090.0,790.0,0.15,Card,Completed
